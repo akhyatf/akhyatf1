@@ -9,4 +9,6 @@ int main(int argc, char** argv){
 	cout <<"2. Segitiga\n";
 	cout <<"Masukkan Pilihan : ";
 	cin >>pil;
+	
+	switch(pil);
 }
