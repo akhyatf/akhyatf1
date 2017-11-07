@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(int argc, char** argv){
-	
+	int pjg,lbr,l,pil,a,t;
 }
